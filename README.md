@@ -2,7 +2,7 @@
 A small turbo/macro for my Celeste While Always Dashing challenge run.
 
 ⚠️ **Warning before using: This program does not care about anything once it is running. If it is burried under other windows it may become difficult to close.**
-**This is esspecialy true for the enter key.**
+**This is especially true for the enter key.**
 
 Depending on input will mimick the keyboard and press one of the following keys repeatedly:
 x: presses X key for standard dashing
